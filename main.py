@@ -12,7 +12,7 @@ from aiogram.types import Message, PollAnswer
 from manage_content import load_content
 
 # Bot token can be obtained via https://t.me/BotFather
-TOKEN = "6821676616:AAGrNoRuLhiboUQI9JTh_3phGTLsFd7aniI"
+TOKEN = ""
 
 # All handlers should be attached to the Router (or Dispatcher)
 dp = Dispatcher()
